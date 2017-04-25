@@ -1,0 +1,22 @@
+{
+  "name": "jfui",
+  "version": "1.0.0",
+  "description": "ui for html",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jufuliu/jfui.git"
+  },
+  "author": "liujufu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jufuliu/jfui/issues"
+  },
+  "homepage": "https://github.com/jufuliu/jfui#readme"
+}
